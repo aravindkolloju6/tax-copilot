@@ -1,0 +1,8 @@
+{
+  "name": "TaxCopilot AI",
+  "description": "An end-to-end AI-powered Income Tax assistant for Indian taxpayers, providing document analysis, tax optimization, and real-time voice consultation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
